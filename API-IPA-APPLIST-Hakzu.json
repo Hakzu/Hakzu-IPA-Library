@@ -219,11 +219,11 @@
           "id": "pojavlauncher",
           "name": "PojavLauncher",
           "description": "Minecraft Java Edition launcher for iOS",
-          "version": "2.2",
-          "size": "Unknown",
+          "version": "3.0",
+          "size": "165.7MB",
           "compatibility": "iOS 12.0+",
           "icon": "https://pojavlauncher.app/logo.png",
-          "downloadUrl": ""
+          "downloadUrl": "https://store8.gofile.io/download/web/3e042419-fa3a-4a6f-be0b-d674df6896ea/PojavLauncher%20(update%203.0).ipa"
         }
       ]
     }
