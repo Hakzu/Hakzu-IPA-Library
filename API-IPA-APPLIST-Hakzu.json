@@ -38,12 +38,22 @@
         {
           "id": "minecraft",
           "name": "Minecraft PE Modded",
-          "description": "All items unlocked, creative mode",
-          "version": "1.20.30",
-          "size": "645.2 MB",
+          "description": "All items unlocked, creative mode, Free Paid (App store)",
+          "version": "1.21.81",
+          "size": "557.2 MB",
           "compatibility": "iOS 12.0+",
           "icon": "https://i.pinimg.com/736x/db/55/91/db5591c4dd95ea6b34042161bb9fec2a.jpg",
-          "downloadUrl": ""
+          "downloadUrl": "https://store8.gofile.io/download/web/2ff17e6f-40b1-498e-9344-1b195fed5518/Minecraft-v1.21.81.ipa"
+        },
+        {
+          "id": "minecraft",
+          "name": "Minecraft PE Modded",
+          "description": "All items unlocked, creative mode, Free Paid (App store)",
+          "version": "1.21.40",
+          "size": "517.4 MB",
+          "compatibility": "iOS 12.0+",
+          "icon": "https://i.pinimg.com/736x/db/55/91/db5591c4dd95ea6b34042161bb9fec2a.jpg",
+          "downloadUrl": "https://store8.gofile.io/download/web/07ed7f7b-d146-495a-8189-57da3b537041/Minecraft-v1.21.40.ipa"
         },
         {
           "id": "subway surfers mod",
