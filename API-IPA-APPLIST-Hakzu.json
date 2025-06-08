@@ -1,247 +1,128 @@
 
 {
-  "library": {
-    "name": "Hakzu's IPA Library",
-    "description": "Curated iOS app collection",
-    "version": "1.0",
-    "lastUpdated": "2024-01-15",
-    "author": "Hakzu",
-    "repository": "https://github.com/Hakzu/ipa-library"
-  },
   "categories": [
     {
-      "id": "game_hacks",
-      "name": "Game Hacks",
+      "name": "Games",
       "icon": "🎮",
-      "description": "Modified games with unlimited resources and premium features",
       "apps": [
         {
-          "id": "clash royale mod",
-          "name": "Clash Royale",
-          "description": "Unlimited gems and coins",
-          "version": "3.2729.4",
-          "size": "158.5 MB",
-          "compatibility": "iOS 13.0+",
-          "icon": "https://cdnb.artstation.com/p/assets/images/images/029/816/241/large/brice-laville-saint-martin-clash-royale-app-icon-2020.jpg?1598728017",
-          "downloadUrl": ""
-        },
-        {
-          "id": "GardenEscape",
-          "name": "GardenEscape",
-          "description": "Hacks Mod",
-          "version": "8.8.0",
-          "size": "190MB",
-          "compatibility": "iOS 12.0+",
-          "icon": "https://play-lh.googleusercontent.com/MI0aupX4o-83J3FhZILVyrl7WMnBVF9AiMghexepstdhSV6JnaTMgd18YvuFuFdKxBU=w240-h480-rw",
-          "downloadUrl": ""
-        },
-        {
-          "id": "minecraft",
-          "name": "Minecraft PE Modded",
-          "description": "All items unlocked, creative mode, Free Paid (App store)",
-          "version": "1.21.81",
-          "size": "557.2 MB",
-          "compatibility": "iOS 12.0+",
-          "icon": "https://i.pinimg.com/736x/db/55/91/db5591c4dd95ea6b34042161bb9fec2a.jpg",
-          "downloadUrl": "https://store8.gofile.io/download/web/2ff17e6f-40b1-498e-9344-1b195fed5518/Minecraft-v1.21.81.ipa"
-        },
-        {
-          "id": "minecraft",
-          "name": "Minecraft PE Modded",
-          "description": "All items unlocked, creative mode, Free Paid (App store)",
-          "version": "1.21.40",
-          "size": "517.4 MB",
-          "compatibility": "iOS 12.0+",
-          "icon": "https://i.pinimg.com/736x/db/55/91/db5591c4dd95ea6b34042161bb9fec2a.jpg",
-          "downloadUrl": "https://store8.gofile.io/download/web/07ed7f7b-d146-495a-8189-57da3b537041/Minecraft-v1.21.40.ipa"
-        },
-        {
-          "id": "subway surfers mod",
-          "name": "Subway Surfers hack",
-          "description": "Free Store (not Free iAP), Free iAP (ViP Only), Unlock Characters Outfit, Custom Jump Height, No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)",
-          "version": "3.47.0",
-          "size": "147MB",
-          "compatibility": "iOS 11.0+",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/25/26/fa2526ad-77e7-11bf-48dc-09ed91e428ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "downloadUrl": ""
-        },
-        {
-          "id": "The Battle Cats",
           "name": "The Battle Cats",
-          "description": "One Hit, Unlimited Cash, Unlimited Cat food/EXP (VIP)",
-          "version": "14.3.0",
-          "size": "210.5MB",
-          "compatibility": "iOS 12.0+",
+          "description": "Tower defense game with cats",
           "icon": "assets/thebattlecats.png",
-          "downloadUrl": "https://store1.gofile.io/download/web/fbc3940f-ef92-478f-bdec-d381ab65a55b/🇻🇳%20The%20Battle%20Cats%20Hakzu%20🇻🇳_14.3.0_1749278664.ipa"
-        }
-      ]
-    },
-    {
-      "id": "social_media",
-      "name": "Social Media++",
-      "icon": "📱",
-      "description": "Enhanced social media apps with additional features",
-      "apps": [
-        {
-          "id": "instagram_plus",
-          "name": "Instagram++",
-          "description": "Download photos/videos, no ads",
-          "version": "285.0",
-          "size": "67.8 MB",
-          "compatibility": "iOS 13.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
-          "downloadUrl": ""
-        },
-        {
-          "id": "tiktok_plus",
-          "name": "TikTok++",
-          "description": "No watermark downloads, premium features",
-          "version": "30.8.0",
-          "size": "143.2 MB",
-          "compatibility": "iOS 12.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png",
-          "downloadUrl": ""
-        },
-        {
-          "id": "youtube_plus",
-          "name": "YouTube++",
-          "description": "Background play, no ads, downloads",
-          "version": "18.45.2",
-          "size": "78.5 MB",
-          "compatibility": "iOS 13.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-          "downloadUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "productivity",
-      "name": "Productivity Hacks",
-      "icon": "⚡",
-      "description": "Unlocked productivity apps with premium features",
-      "apps": [
-        {
-          "id": "notability_pro",
-          "name": "Notability Pro",
-          "description": "All premium features unlocked",
-          "version": "11.0.2",
-          "size": "234.7 MB",
-          "compatibility": "iOS 14.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
-          "downloadUrl": ""
-        },
-        {
-          "id": "documents_pro",
-          "name": "Documents Pro",
-          "description": "Premium file manager with cloud sync",
-          "version": "8.9.3",
-          "size": "156.4 MB",
-          "compatibility": "iOS 13.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/3214/3214769.png",
-          "downloadUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "streaming",
-      "name": "Streaming Apps++",
-      "icon": "🎬",
-      "description": "Modified streaming apps with premium access",
-      "apps": [
-        {
-          "id": "spotify_plus",
-          "name": "Spotify++",
-          "description": "No ads, unlimited skips, premium quality",
-          "version": "8.8.72",
-          "size": "87.2 MB",
-          "compatibility": "iOS 13.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
-          "downloadUrl": ""
-        },
-        {
-          "id": "netflix_mod",
-          "name": "Netflix Mod",
-          "description": "Download content, no subscription required",
-          "version": "15.45.0",
-          "size": "198.7 MB",
-          "compatibility": "iOS 14.0+",
-          "icon": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
-          "downloadUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "utilities",
-      "name": "System Utilities",
-      "icon": "🔧",
-      "description": "Advanced system tools and tweaks for iOS",
-      "apps": [
-        {
-          "id": "filza_manager",
-          "name": "Filza File Manager",
-          "description": "Complete file system access",
-          "version": "4.0.2",
-          "size": "unknown",
-          "compatibility": "iOS 11.0+",
-          "icon": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
-          "downloadUrl": ""
-        },
-        {
-          "id": "ifile",
-          "name": "iFile",
-          "description": "File browser and manager",
-          "version": "2.2.0",
-          "size": "28.3 MB",
-          "compatibility": "iOS 10.0+",
-          "icon": "https://media.idownloadblog.com/wp-content/uploads/2014/10/iFile.png",
-          "downloadUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "emulators",
-      "name": "Emulators & ROMs",
-      "icon": "🕹️",
-      "description": "Classic console emulators for iOS devices",
-      "apps": [
-        {
-          "id": "delta_emulator",
-          "name": "Delta Emulator",
-          "description": "Nintendo DS, GBA, GBC emulator",
-          "version": "1.6",
-          "size": "23.8 MB",
-          "compatibility": "iOS 12.0+",
-          "icon": "https://techcrunch.com/wp-content/uploads/2024/05/delta-app-logo.png?w=680",
-          "downloadUrl": ""
-        },
-        {
-          "id": "gba4ios",
-          "name": "GBA4iOS",
-          "description": "Game Boy Advance emulator",
-          "version": "2.1",
-          "size": "12.1 MB",
+          "version": "11.4.0",
+          "size": "156 MB",
+          "downloadUrl": "https://example.com/thebattlecats.ipa",
+          "developer": "PONOS Corporation",
           "compatibility": "iOS 9.0+",
-          "icon": "https://styles.redditmedia.com/t5_302pi/styles/communityIcon_b53vxp7gks831.png",
-          "downloadUrl": ""
+          "category": "Games"
         },
         {
-          "id": "pojavlauncher",
-          "name": "PojavLauncher",
-          "description": "Minecraft Java Edition launcher for iOS",
-          "version": "3.0",
-          "size": "165.7MB",
+          "name": "Clash Royale",
+          "description": "Real-time strategy battle game",
+          "icon": "https://example.com/clashroyale-icon.png",
+          "version": "3.7.0",
+          "size": "189 MB",
+          "downloadUrl": "https://example.com/clashroyale.ipa",
+          "developer": "Supercell",
+          "compatibility": "iOS 10.0+",
+          "category": "Games"
+        }
+      ]
+    },
+    {
+      "name": "Social",
+      "icon": "💬",
+      "apps": [
+        {
+          "name": "Discord",
+          "description": "Chat and voice communication",
+          "icon": "https://example.com/discord-icon.png",
+          "version": "185.0",
+          "size": "98 MB",
+          "downloadUrl": "https://example.com/discord.ipa",
+          "developer": "Discord Inc.",
+          "compatibility": "iOS 11.0+",
+          "category": "Social"
+        },
+        {
+          "name": "Telegram",
+          "description": "Secure messaging app",
+          "icon": "https://example.com/telegram-icon.png",
+          "version": "9.4.1",
+          "size": "142 MB",
+          "downloadUrl": "https://example.com/telegram.ipa",
+          "developer": "Telegram FZ-LLC",
           "compatibility": "iOS 12.0+",
-          "icon": "https://pojavlauncher.app/logo.png",
-          "downloadUrl": "https://store8.gofile.io/download/web/3e042419-fa3a-4a6f-be0b-d674df6896ea/PojavLauncher%20(update%203.0).ipa"
+          "category": "Social"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "icon": "🔧",
+      "apps": [
+        {
+          "name": "Filza File Manager",
+          "description": "Advanced file manager for iOS",
+          "icon": "https://example.com/filza-icon.png",
+          "version": "3.8.1",
+          "size": "45 MB",
+          "downloadUrl": "https://example.com/filza.ipa",
+          "developer": "TIGISOFTWARE LLC",
+          "compatibility": "iOS 8.0+",
+          "category": "Utilities"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "icon": "🎬",
+      "apps": [
+        {
+          "name": "YouTube",
+          "description": "Video sharing platform",
+          "icon": "https://example.com/youtube-icon.png",
+          "version": "18.45.2",
+          "size": "234 MB",
+          "downloadUrl": "https://example.com/youtube.ipa",
+          "developer": "Google LLC",
+          "compatibility": "iOS 12.0+",
+          "category": "Entertainment"
+        },
+        {
+          "name": "Netflix",
+          "description": "Streaming service for movies and TV shows",
+          "icon": "https://example.com/netflix-icon.png",
+          "version": "15.43.0",
+          "size": "198 MB",
+          "downloadUrl": "https://example.com/netflix.ipa",
+          "developer": "Netflix, Inc.",
+          "compatibility": "iOS 13.0+",
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "name": "Productivity",
+      "icon": "📝",
+      "apps": [
+        {
+          "name": "Notion",
+          "description": "All-in-one workspace",
+          "icon": "https://example.com/notion-icon.png",
+          "version": "0.6.729",
+          "size": "87 MB",
+          "downloadUrl": "https://example.com/notion.ipa",
+          "developer": "Notion Labs, Inc.",
+          "compatibility": "iOS 12.0+",
+          "category": "Productivity"
         }
       ]
     }
   ],
-  "statistics": {
-    "total_apps": 17,
-    "total_categories": 6,
-    "last_app_added": "2024-01-15",
-    "download_count": "5K+"
+  "metadata": {
+    "version": "2.5.0",
+    "lastUpdated": "2024-12-15",
+    "totalCategories": 5
   }
 }
