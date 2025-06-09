@@ -1,128 +1,190 @@
 
 {
+  "metadata": {
+    "version": "2.5",
+    "lastUpdated": "2024-01-15",
+    "totalApps": 0,
+    "totalCategories": 6
+  },
   "categories": [
     {
       "name": "Games",
-      "icon": "🎮",
+      "icon": "assets/games.png",
       "apps": [
         {
           "name": "The Battle Cats",
           "description": "Tower defense game with cats",
           "icon": "assets/thebattlecats.png",
-          "version": "11.4.0",
+          "version": "12.4.0",
           "size": "156 MB",
-          "downloadUrl": "https://example.com/thebattlecats.ipa",
           "developer": "PONOS Corporation",
-          "compatibility": "iOS 9.0+",
-          "category": "Games"
+          "category": "Games",
+          "compatibility": "iOS 12.0+",
+          "downloadUrl": "https://example.com/thebattlecats.ipa"
+        },
+        {
+          "name": "Subway Surfers",
+          "description": "Endless running game",
+          "icon": "assets/games.png",
+          "version": "3.15.0",
+          "size": "98 MB",
+          "developer": "SYBO Games",
+          "category": "Games",
+          "compatibility": "iOS 11.0+",
+          "downloadUrl": "https://example.com/subwaysurfers.ipa"
         },
         {
           "name": "Clash Royale",
-          "description": "Real-time strategy battle game",
-          "icon": "https://example.com/clashroyale-icon.png",
-          "version": "3.7.0",
-          "size": "189 MB",
-          "downloadUrl": "https://example.com/clashroyale.ipa",
+          "description": "Real-time strategy game",
+          "icon": "assets/games1.jpg",
+          "version": "3.7.1",
+          "size": "245 MB",
           "developer": "Supercell",
-          "compatibility": "iOS 10.0+",
-          "category": "Games"
-        }
-      ]
-    },
-    {
-      "name": "Social",
-      "icon": "💬",
-      "apps": [
-        {
-          "name": "Discord",
-          "description": "Chat and voice communication",
-          "icon": "https://example.com/discord-icon.png",
-          "version": "185.0",
-          "size": "98 MB",
-          "downloadUrl": "https://example.com/discord.ipa",
-          "developer": "Discord Inc.",
-          "compatibility": "iOS 11.0+",
-          "category": "Social"
-        },
-        {
-          "name": "Telegram",
-          "description": "Secure messaging app",
-          "icon": "https://example.com/telegram-icon.png",
-          "version": "9.4.1",
-          "size": "142 MB",
-          "downloadUrl": "https://example.com/telegram.ipa",
-          "developer": "Telegram FZ-LLC",
+          "category": "Games",
           "compatibility": "iOS 12.0+",
-          "category": "Social"
+          "downloadUrl": "https://example.com/clashroyale.ipa"
         }
       ]
     },
     {
-      "name": "Utilities",
-      "icon": "🔧",
+      "name": "Social & Chat",
+      "icon": "assets/socialchat.png",
       "apps": [
         {
-          "name": "Filza File Manager",
-          "description": "Advanced file manager for iOS",
-          "icon": "https://example.com/filza-icon.png",
-          "version": "3.8.1",
-          "size": "45 MB",
-          "downloadUrl": "https://example.com/filza.ipa",
-          "developer": "TIGISOFTWARE LLC",
-          "compatibility": "iOS 8.0+",
-          "category": "Utilities"
-        }
-      ]
-    },
-    {
-      "name": "Entertainment",
-      "icon": "🎬",
-      "apps": [
-        {
-          "name": "YouTube",
-          "description": "Video sharing platform",
-          "icon": "https://example.com/youtube-icon.png",
-          "version": "18.45.2",
-          "size": "234 MB",
-          "downloadUrl": "https://example.com/youtube.ipa",
-          "developer": "Google LLC",
-          "compatibility": "iOS 12.0+",
-          "category": "Entertainment"
-        },
-        {
-          "name": "Netflix",
-          "description": "Streaming service for movies and TV shows",
-          "icon": "https://example.com/netflix-icon.png",
-          "version": "15.43.0",
-          "size": "198 MB",
-          "downloadUrl": "https://example.com/netflix.ipa",
-          "developer": "Netflix, Inc.",
+          "name": "WhatsApp Plus",
+          "description": "Enhanced WhatsApp with additional features",
+          "icon": "assets/socialchat.png",
+          "version": "2.23.24",
+          "size": "187 MB",
+          "developer": "WhatsApp Inc.",
+          "category": "Social & Chat",
           "compatibility": "iOS 13.0+",
-          "category": "Entertainment"
+          "downloadUrl": "https://example.com/whatsappplus.ipa"
+        },
+        {
+          "name": "Telegram X",
+          "description": "Fast and secure messaging",
+          "icon": "assets/socialchat.png",
+          "version": "10.2.1",
+          "size": "145 MB",
+          "developer": "Telegram FZ-LLC",
+          "category": "Social & Chat",
+          "compatibility": "iOS 12.0+",
+          "downloadUrl": "https://example.com/telegramx.ipa"
         }
       ]
     },
     {
       "name": "Productivity",
-      "icon": "📝",
+      "icon": "assets/productivity.png",
       "apps": [
         {
-          "name": "Notion",
-          "description": "All-in-one workspace",
-          "icon": "https://example.com/notion-icon.png",
-          "version": "0.6.729",
-          "size": "87 MB",
-          "downloadUrl": "https://example.com/notion.ipa",
-          "developer": "Notion Labs, Inc.",
+          "name": "Notability",
+          "description": "Note-taking and PDF annotation",
+          "icon": "assets/productivity.png",
+          "version": "11.0.2",
+          "size": "234 MB",
+          "developer": "Ginger Labs",
+          "category": "Productivity",
+          "compatibility": "iOS 14.0+",
+          "downloadUrl": "https://example.com/notability.ipa"
+        },
+        {
+          "name": "GoodNotes 5",
+          "description": "Digital notebook for handwritten notes",
+          "icon": "assets/productivity.png",
+          "version": "5.9.55",
+          "size": "189 MB",
+          "developer": "Time Base Technology Limited",
+          "category": "Productivity",
+          "compatibility": "iOS 13.0+",
+          "downloadUrl": "https://example.com/goodnotes5.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "icon": "assets/utillites.png",
+      "apps": [
+        {
+          "name": "iStat Menus",
+          "description": "System monitoring and stats",
+          "icon": "assets/utillites.png",
+          "version": "6.72",
+          "size": "67 MB",
+          "developer": "Bjango Pty Ltd",
+          "category": "Utilities",
+          "compatibility": "iOS 15.0+",
+          "downloadUrl": "https://example.com/istatmenus.ipa"
+        },
+        {
+          "name": "1Blocker",
+          "description": "Privacy and ad blocker",
+          "icon": "assets/utillites.png",
+          "version": "5.1.1",
+          "size": "45 MB",
+          "developer": "1Blocker LLC",
+          "category": "Utilities",
+          "compatibility": "iOS 14.0+",
+          "downloadUrl": "https://example.com/1blocker.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "icon": "assets/Entertainment.png",
+      "apps": [
+        {
+          "name": "Netflix",
+          "description": "Stream movies and TV shows",
+          "icon": "assets/Entertainment.png",
+          "version": "15.46.0",
+          "size": "201 MB",
+          "developer": "Netflix Inc.",
+          "category": "Entertainment",
+          "compatibility": "iOS 13.0+",
+          "downloadUrl": "https://example.com/netflix.ipa"
+        },
+        {
+          "name": "Spotify",
+          "description": "Music streaming service",
+          "icon": "assets/Entertainment.png",
+          "version": "8.8.52",
+          "size": "134 MB",
+          "developer": "Spotify Ltd.",
+          "category": "Entertainment",
           "compatibility": "iOS 12.0+",
-          "category": "Productivity"
+          "downloadUrl": "https://example.com/spotify.ipa"
+        }
+      ]
+    },
+    {
+      "name": "Photo & Video",
+      "icon": "assets/phone.png",
+      "apps": [
+        {
+          "name": "VSCO",
+          "description": "Photo and video editing",
+          "icon": "assets/phone.png",
+          "version": "284.0",
+          "size": "178 MB",
+          "developer": "VSCO",
+          "category": "Photo & Video",
+          "compatibility": "iOS 14.0+",
+          "downloadUrl": "https://example.com/vsco.ipa"
+        },
+        {
+          "name": "Adobe Lightroom",
+          "description": "Professional photo editing",
+          "icon": "assets/phone.png",
+          "version": "8.1.0",
+          "size": "267 MB",
+          "developer": "Adobe Inc.",
+          "category": "Photo & Video",
+          "compatibility": "iOS 15.0+",
+          "downloadUrl": "https://example.com/lightroom.ipa"
         }
       ]
     }
-  ],
-  "metadata": {
-    "version": "2.5.0",
-    "lastUpdated": "2024-12-15",
-    "totalCategories": 5
-  }
+  ]
 }
