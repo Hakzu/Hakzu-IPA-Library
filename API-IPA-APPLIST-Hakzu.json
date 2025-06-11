@@ -183,6 +183,34 @@
           "downloadUrl": "https://example.com/lightroom.ipa"
         }
       ]
+    },
+    {
+      "name": "Signer",
+      "icon": "https://img.icons8.com/?size=512&id=68097&format=png",
+      "apps": [
+        {
+          "name": "Ksign",
+          "description": "Signer",
+          "icon": "https://khoindvn.io.vn/img/pf/ksign.png",
+          "version": "Unknown",
+          "size": "10.2MB",
+          "developer": "Unknown",
+          "category": "Signer",
+          "compatibility": "iOS 14.0-18.5",
+          "downloadUrl": "https://github.com/Hakzu/Hakzu-IPA-Library-FILE/releases/download/Hakzu/Ksign.ipa"
+        },
+        {
+          "name": "Gbox",
+          "description": "Signer",
+          "icon": "https://gboxlab.com/img/logo_02.png",
+          "version": "5.7.3",
+          "size": "6.8 MB",
+          "developer": "Unknown",
+          "category": "Signer",
+          "compatibility": "iOS 12.0-18.5",
+          "downloadUrl": "https://gbox.run"
+        }
+      ]
     }
   ]
 }
